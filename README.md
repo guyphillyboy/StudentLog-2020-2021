@@ -96,7 +96,7 @@ Signing on to work on creating first project for CSP
 Signing off for now. I got hungry so I didn't finish. I'll be back later today.
 Finished writing the first few parts of the assignment. I need to go back and
 add a formatting rule that says log files should not go past Col 80 and
-reference the VSCode plugin "Rewrap" for automagically doing this for you.
+reference the VSCode plugin "Rewrap" for automatically doing this for you.
 
 # Sunday, September 13, 2020 12:30 PM
 - [ ] Add section on max line length for log entries
@@ -140,7 +140,7 @@ Note: You will need to change `jcollard` to be the correct name for your branch.
 Each time you create an entry, you should add that entry to your branch, commit
 it, and push it to GitHub.
 
-In addition to committing each tim you create an entry, you *should* make
+In addition to committing each time you create an entry, you *should* make
 intermittent commits while working on other files within this repository.
 
 ### The start-entry.sh Script
